@@ -8,12 +8,6 @@
  */
 
 // Your code :
-let str = "1337";
-let num = 42;
-let bool = false;
-const undef = undefined;
-//* Begin of tests
-const assert = require('assert')
 
 assert.strictEqual(typeof str, 'string')
 assert.strictEqual(str, '1337')
